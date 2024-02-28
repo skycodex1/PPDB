@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Pendaftaran Siswa Baru | SMK Coding</title>
+    <title>Pendaftaran Siswa Baru | SMA PLUS PGRI CIBINONG</title>
     <link rel="stylesheet" href="yo.css">
 
 </head>
