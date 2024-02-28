@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Formulir Pendaftaran Siswa Baru | SMK Coding</title>
+    <title>Formulir Pendaftaran Siswa Baru | SMA PLUS PGRI CIBINONG</title>
 </head>
 
 <body>
